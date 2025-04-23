@@ -1,5 +1,3 @@
-
-
 let numero = parseInt(prompt("Ingrese un número (máximo 50):"));
 
 if (numero > 50) {

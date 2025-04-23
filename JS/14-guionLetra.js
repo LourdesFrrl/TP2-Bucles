@@ -1,5 +1,5 @@
-let texto = prompt("Ingrese un texto:");
-let resultado = "";
+const texto = prompt("Ingrese un texto:");
+const resultado = "";
 
 for (let i = 0; i < texto.length; i++) {
   resultado += texto[i];
