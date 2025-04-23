@@ -64,13 +64,13 @@ Invierte el texto ingresado por el usuario y lo muestra al revés.
 
 ---
 
-## 📂 Estructura del proyecto
+## 📁 Estructura del proyecto
+## 📁 Estructura del proyecto
 
+```plaintext
 T2-BUCLES/
-│
-├── CSS/                     
-│
-├── JS/                    
+├── CSS/
+├── JS/
 │   ├── 1-edad.js
 │   ├── 2-calificacion.js
 │   ├── 3-cadenaDeTexto.js
@@ -87,11 +87,10 @@ T2-BUCLES/
 │   ├── 14-guionLetra.js
 │   ├── 15-contarVocales.js
 │   └── 16-textoReves.js
-│
-├── index.html              
-├── README.md               
+├── index.html
+└── README.md
 
-
+```
 
 ---
 
